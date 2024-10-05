@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "frontend": "cd frontend && yarn && yarn dev",
+    "backend": "cd backend && yarn && yarn server",
+    "database": "cd database && yarn  && yarn db",
+    "dev": "yarn database & yarn backend & yarn frontend",
+    "clear": "rm -rf backend/node_modules && rm -rf frontend/node_modules && rm -rf database/node_modules",
+    "gs": "cd backend && yarn secret"
+  }
+}

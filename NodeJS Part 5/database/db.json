@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "username": "Raymond",
+      "password": "$2b$07$U7q06nzeOtqu.nWw1gwMFOv7Vw.bNZgGWyUG0kS2ZVEmMsEXoO9py",
+      "id": 1
+    },
+    {
+      "username": "111",
+      "password": "$2b$07$20.vsC4vm0faRAgK/twpPOlKQJLJFarW7tcFS.gKepnCksEmOpNe2",
+      "id": 2
+    },
+    {
+      "username": "1",
+      "password": "$2b$07$7Jd.HA1h1vxyRudxa0TXV.Zlw7WawklJ1XzvksPrtUK3Ww.SYYk92",
+      "id": 3
+    },
+    {
+      "username": "12",
+      "password": "$2b$07$mAx2EpPLhcksjziaue2mp.l.vqX.V66hZdvsgvlTrBLyZHRzDi9x2",
+      "id": 4
+    },
+    {
+      "username": "123",
+      "password": "$2b$07$YPjZIY.4BoPId4Ib5TRyiujdvHX1X6FRYA4T.EeK2wEy3YojN6Z3i",
+      "id": 5
+    }
+  ],
+  "bcrypt": [
+    {
+      "id": 1,
+      "saltRounds": 7
+    },
+    {
+      "id": 2,
+      "saltRounds": 10
+    }
+  ]
+}
